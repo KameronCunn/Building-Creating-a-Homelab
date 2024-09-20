@@ -48,8 +48,12 @@ Configure Windows 10 machine
 <img width="839" alt="15 Screen Shot 2024-09-20 at 2 16 37 PM" src="https://github.com/user-attachments/assets/c773c632-5483-406d-a569-7329fcab87f2">
 <img width="823" alt="16 Screen Shot 2024-09-20 at 2 17 34 PM" src="https://github.com/user-attachments/assets/414d9cd7-c2a3-4cb5-b84d-270bcd713e8a">
 <img width="836" alt="17 Screen Shot 2024-09-20 at 2 18 08 PM" src="https://github.com/user-attachments/assets/c86895e8-88d6-4315-a437-bb6d95804102">
-
-
+<img width="901" alt="Screen Shot 2024-09-20 at 3 16 07 PM" src="https://github.com/user-attachments/assets/e31e58b5-d068-459c-a6fc-309ea2f37251">
+<img width="904" alt="Screen Shot 2024-09-20 at 3 17 39 PM" src="https://github.com/user-attachments/assets/45e93d4c-e613-48ef-ba43-428ebadf85cc">
+<img width="902" alt="Screen Shot 2024-09-20 at 3 18 27 PM" src="https://github.com/user-attachments/assets/397e4d96-0976-4f46-b132-2f7b1c012f2b">
+<img width="902" alt="Screen Shot 2024-09-20 at 3 24 37 PM" src="https://github.com/user-attachments/assets/d51e6f79-b8fa-4437-bb0a-44870c578477">
+<img width="1016" alt="Screen Shot 2024-09-20 at 5 53 39 PM" src="https://github.com/user-attachments/assets/d6bfd94b-73a8-4b46-a660-71b47f969bcb">
+<img width="1017" alt="Screen Shot 2024-09-20 at 5 54 57 PM" src="https://github.com/user-attachments/assets/b54fe051-f21e-4c36-9885-1649cadba703">
 
 
 
