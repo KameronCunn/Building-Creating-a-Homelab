@@ -17,7 +17,8 @@ Building a home lab as a cybersecurity professional is a strategic way to develo
 [Bullet Points - Remove this afterwards]
 
 - Oracle VirtualBox
-- 
+- Windows 10
+- Kali Linux
   
 
 ## Steps
