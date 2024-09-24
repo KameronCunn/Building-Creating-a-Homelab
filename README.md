@@ -14,7 +14,7 @@ Building a home lab as a cybersecurity professional is a strategic way to develo
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+
 
 - Oracle VirtualBox
 - Windows 10
