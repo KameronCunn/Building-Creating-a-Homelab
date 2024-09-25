@@ -35,8 +35,6 @@ Download and install the most current version of Oracle VirtualBox software
 Step #2 Download Windows 10 iso file to create a Windows 10 image in VirtualBox
 <img width="769" alt="6 Screen Shot 2024-09-20 at 1 57 36 PM" src="https://github.com/user-attachments/assets/77597a74-777a-4a59-a001-391571ae3dd7">
 <img width="940" alt="7 Screen Shot 2024-09-20 at 1 59 10 PM" src="https://github.com/user-attachments/assets/4a2941d6-91f4-4ba4-ae5b-847cf282f41a">
- width="943" alt="9 Screen Shot 2024-09-20 at 2 03 20 PM" src="https://github.com/user-attachments/assets/cf7b936c-5c5d-4c70-869a-df97eb55aa19">
-45">
 <img width="939" alt="10 Screen Shot 2024-09-20 at 2 03 44 PM" src="https://github.com/user-attachments/assets/c814c4c1-cf32-4356-949e-089c62e8d9f2">
 <img width="765" alt="11 Screen Shot 2024-09-20 at 2 04 14 PM" src="https://github.com/user-attachments/assets/402204f8-f617-44b4-a0ea-0f0425e32606">
 
@@ -84,5 +82,29 @@ Step #4 Download, Configure and install kali linux
 <img width="633" alt="Screen Shot 2024-09-24 at 5 29 02 PM" src="https://github.com/user-attachments/assets/e051c3cc-a049-42ea-8660-08802f7d7f9d">
 <img width="631" alt="Screen Shot 2024-09-24 at 5 29 29 PM" src="https://github.com/user-attachments/assets/8a6444d8-3114-4a9f-aa6e-2a9b8d543d65">
 <img width="629" alt="Screen Shot 2024-09-24 at 5 29 45 PM" src="https://github.com/user-attachments/assets/458a8a6e-1ef2-4734-bbb9-215c321b0813">
+
+
+Step #4 Create a snapshot of both windows 10 and kali linux virtual machines.
+<img width="779" alt="Screen Shot 2024-09-25 at 11 11 28 AM" src="https://github.com/user-attachments/assets/01d510c7-dea1-421d-8760-3344dac93ecd">
+<img width="780" alt="Screen Shot 2024-09-25 at 11 13 10 AM" src="https://github.com/user-attachments/assets/1cf9d5f5-d3a2-4a38-9e77-9b5a1117a422">
+<img width="816" alt="Screen Shot 2024-09-25 at 2 41 29 PM" src="https://github.com/user-attachments/assets/2ea4b6cc-1b48-41ea-8ae4-399e40974b0b">
+<img width="821" alt="Screen Shot 2024-09-25 at 2 41 40 PM" src="https://github.com/user-attachments/assets/22e3c509-daca-450e-8d9e-fdccf39ecb92">
+<img width="819" alt="Screen Shot 2024-09-25 at 11 17 50 AM" src="https://github.com/user-attachments/assets/d4c1661b-d581-4de9-8e95-5cdbb541e337">
+<img width="820" alt="Screen Shot 2024-09-25 at 11 18 23 AM" src="https://github.com/user-attachments/assets/5eefee51-8789-430f-ae14-0ea2c9cc4764">
+<img width="822" alt="Screen Shot 2024-09-25 at 11 18 35 AM" src="https://github.com/user-attachments/assets/78d123ae-8dbd-4e0e-a7d6-e2e780cd44b7">
+
+
+Step #5 Properly Configure Virtual Machines from default settings to protect your host machine and allow both machines to communicate with each other along the same internal network for analyzing malware in the future
+
+Change Windows 10 machine network settings 
+<img width="951" alt="Screen Shot 2024-09-25 at 12 15 10 PM" src="https://github.com/user-attachments/assets/ef3b7c17-1cf1-4091-84f8-fbdcfc101e68">
+<img width="947" alt="Screen Shot 2024-09-25 at 12 15 41 PM" src="https://github.com/user-attachments/assets/d3882976-41df-4049-846f-0985e29d7d2e">
+
+
+
+
+
+
+
 
 
