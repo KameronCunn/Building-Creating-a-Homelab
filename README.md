@@ -96,12 +96,26 @@ Step #4 Create a snapshot of both windows 10 and kali linux virtual machines.
 
 Step #5 Properly Configure Virtual Machines from default settings to protect your host machine and allow both machines to communicate with each other along the same internal network for analyzing malware in the future
 
-Change Windows 10 machine network settings 
-<img width="951" alt="Screen Shot 2024-09-25 at 12 15 10 PM" src="https://github.com/user-attachments/assets/ef3b7c17-1cf1-4091-84f8-fbdcfc101e68">
-<img width="947" alt="Screen Shot 2024-09-25 at 12 15 41 PM" src="https://github.com/user-attachments/assets/d3882976-41df-4049-846f-0985e29d7d2e">
+Change Windows 10 and Kali Linux machine network settings and create a static IP for both machines to create communication between both machines  
+<img width="948" alt="Screen Shot 2024-09-27 at 10 44 10 AM" src="https://github.com/user-attachments/assets/27da3f2f-74a9-4bcf-a4ad-6  7837a91b8ba">
+<img width="951" alt="Screen Shot 2024-09-27 at 10 44 33 AM" src="https://github.com/user-attachments/assets/c0107227-166d-488a-99ef-8566e31dd178">
+<img width="1099" alt="Screen Shot 2024-09-27 at 10 46 34 AM" src="https://github.com/user-attachments/assets/8e3bedc2-172d-4b27-b6dd-ee7bce98d08c">
+<img width="1109" alt="Screen Shot 2024-09-27 at 10 47 22 AM" src="https://github.com/user-attachments/assets/bd4f5b60-a838-48b5-8567-099b3b96052b">
+<img width="1104" alt="Screen Shot 2024-09-27 at 10 47 42 AM" src="https://github.com/user-attachments/assets/f8cfc380-7e6d-4dea-b664-ba4392969a84">
 
+Open Command prompt and confirm static IP has been set 
+<img width="1105" alt="Screen Shot 2024-09-27 at 10 50 03 AM" src="https://github.com/user-attachments/assets/3fa22512-731f-48f7-82fc-7ddaae00069f">
 
+Open kali linux machine
+<img width="851" alt="Screen Shot 2024-09-27 at 10 51 18 AM" src="https://github.com/user-attachments/assets/31205209-67e4-4ee6-8c69-972415fdc38a">
+<img width="847" alt="Screen Shot 2024-09-27 at 10 55 08 AM" src="https://github.com/user-attachments/assets/e48c7318-1574-41a9-8410-054b615ed16b">
+<img width="855" alt="Screen Shot 2024-09-27 at 10 55 49 AM" src="https://github.com/user-attachments/assets/e6b422ef-b626-4b9d-b72c-4eee76761a9a">
+Open Command prompt and confirm static IP has been set
+<img width="856" alt="Screen Shot 2024-09-27 at 10 57 10 AM" src="https://github.com/user-attachments/assets/5bca65de-46ad-470b-92b5-e59efdf32247">
 
+Ping each ip address to check for communication 
+<img width="851" alt="Screen Shot 2024-09-27 at 10 59 02 AM" src="https://github.com/user-attachments/assets/0deaee65-bb9d-40e3-b7bf-d9ac61de021b">
+<img width="1105" alt="Screen Shot 2024-09-27 at 11 02 34 AM" src="https://github.com/user-attachments/assets/1b29e6b6-99f3-4bf9-bfcc-d2c46f66fd3d">
 
 
 
